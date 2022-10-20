@@ -19,7 +19,7 @@ export default function App() {
         </main>
         <div
             id="snipcart"
-            data-api-key="NWMwZWNkZGMtZjU2ZS00YzM3LWFlZjYtMmM5Zjk0MWViZDcxNjM3Njg0OTY0ODg5NTk4MTM3" hidden
+            data-api-key="MzdkYmQ3YjMtNmNhZi00MjI5LWIzZjctZWZhNTcxY2UzMjQzNjM4MDE4OTcyMTE3ODYyMTA3" hidden
         >
         </div>
       </div>
